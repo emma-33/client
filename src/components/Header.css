@@ -1,0 +1,19 @@
+.header {
+    background-color: rgb(8, 86, 57);
+    padding-bottom: 10px;
+    position: relative;
+}
+
+nav {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.logo {
+    width: 90px;
+    height: 80%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px;
+}

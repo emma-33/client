@@ -1,0 +1,13 @@
+.footer {
+    background-color: rgb(8, 86, 57);
+    padding: 10px;
+}
+
+.logo {
+    width: 90px;
+    height: 80%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px;
+}

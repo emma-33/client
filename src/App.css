@@ -4,7 +4,8 @@ body {
   padding: 0;
 }
 
-header, section, div, footer {
-  padding: 20px;
+header, footer {
   text-align: center;
 }
+
+

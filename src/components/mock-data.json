@@ -1,0 +1,93 @@
+{
+  "challenges": [
+    {
+      "challenge_name": "Challenge 1",
+      "challenge_description": "This is a challenge description",
+      "challenge_difficulty": "Easy",
+      "challenge_points": 100,
+      "challenge_category": "Web",
+      "challenge_flag": "flag{test_flag}"
+    },
+    {
+      "challenge_name": "Challenge 2",
+      "challenge_description": "This is a challenge description",
+      "challenge_difficulty": "Medium",
+      "challenge_points": 200,
+      "challenge_category": "Web",
+      "challenge_flag": "flag{test_flag}"
+    },
+    {
+      "challenge_name": "Challenge 3",
+      "challenge_description": "This is a challenge description",
+      "challenge_difficulty": "Hard",
+      "challenge_points": 300,
+      "challenge_category": "Web",
+      "challenge_flag": "flag{test_flag}"
+    },
+    {
+        "challenge_name": "Challenge 4",
+        "challenge_description": "This is a challenge description",
+        "challenge_difficulty": "Easy",
+        "challenge_points": 100,
+        "challenge_category": "Forensics",
+        "challenge_flag": "flag{test_flag}"
+    },
+    {
+        "challenge_name": "Challenge 5",
+        "challenge_description": "This is a challenge description",
+        "challenge_difficulty": "Medium",
+        "challenge_points": 200,
+        "challenge_category": "Forensics",
+        "challenge_flag": "flag{test_flag}"
+    },
+    {
+        "challenge_name": "Challenge 6",
+        "challenge_description": "This is a challenge description",
+        "challenge_difficulty": "Hard",
+        "challenge_points": 300,
+        "challenge_category": "Forensics",
+        "challenge_flag": "flag{test_flag}"
+    },
+    {
+        "challenge_name": "Challenge 7",
+        "challenge_description": "This is a challenge description",
+        "challenge_difficulty": "Easy",
+        "challenge_points": 100,
+        "challenge_category": "Crypto",
+        "challenge_flag": "flag{test_flag}"
+    },
+    {
+        "challenge_name": "Challenge 8",
+        "challenge_description": "This is a challenge description",
+        "challenge_difficulty": "Medium",
+        "challenge_points": 200,
+        "challenge_category": "Crypto",
+        "challenge_flag": "flag{test_flag}"
+    },
+    {
+        "challenge_name": "Challenge 9",
+        "challenge_description": "This is a challenge description",
+        "challenge_difficulty": "Hard",
+        "challenge_points": 300,
+        "challenge_category": "Crypto",
+        "challenge_flag": "flag{test_flag}"
+    },
+    {
+        "challenge_name": "Challenge 10",
+        "challenge_description": "This is a challenge description",
+        "challenge_difficulty": "Easy",
+        "challenge_points": 100,
+        "challenge_category": "Misc",
+        "challenge_flag": "flag{test_flag}"
+    },
+    {
+        "challenge_name": "Challenge 11",
+        "challenge_description": "This is a challenge description",
+        "challenge_difficulty": "Medium",
+        "challenge_points": 200,
+        "challenge_category": "Misc",
+        "challenge_flag": "flag{test_flag}"
+    }
+  ]
+
+}
