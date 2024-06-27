@@ -1,0 +1,21 @@
+.custom-navbar {
+    background-color: rgb(8, 86, 57);
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+nav {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+/*
+.logo {
+    width: 90px;
+    height: 80%;
+    left: 0;
+    top: 0;
+    padding: 10px;
+    position: relative;
+}
+*/

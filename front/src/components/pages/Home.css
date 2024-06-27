@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.card-deck {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+.card {
+    flex: 1 0 auto;
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(8, 86, 57);
+}
+
+.card-title h5 {
+    text-align: center;
+    margin: 10px;
+}
